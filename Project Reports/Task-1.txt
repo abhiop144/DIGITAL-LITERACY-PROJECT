@@ -1,0 +1,10 @@
+Project Report TASK 1: Digital Literacy Awareness Resource
+Tool Used: Canva (Design) & GitHub (Documentation)
+
+Description of the Resource:
+For Task 1, I developed a high-fidelity visual infographic aimed at enhancing digital literacy among my batchmates. The design is structured into three primary sections: Digital Literacy Definition, Core Digital Tools for CSE Students, and Professional Online Presence.
+
+The resource defines digital literacy as the ability to critically evaluate and communicate information in a tech-driven landscape. It highlights essential tools such as GitHub for version control and various Integrated Development Environments (IDEs) necessary for engineering coursework. Furthermore, it provides actionable advice on building a professional digital footprint through optimized LinkedIn profiles and curated GitHub repositories. The aesthetic uses a modern, dark-themed "cyber-tech" layout with geometric blue and purple accents to resonate with a technical audience.
+
+Reflection (Interesting/Difficult Aspect):
+What I found particularly interesting during this process was the challenge of "technical translation"—taking a broad concept like "digital literacy" and making it specifically relevant for an AIML student. Instead of just focusing on basic internet use, I had to pivot the focus toward AI veracity and the ethics of verifying generated code. Balancing a minimalist design with enough technical depth to be useful for peers was a challenging but rewarding exercise in visual communication.

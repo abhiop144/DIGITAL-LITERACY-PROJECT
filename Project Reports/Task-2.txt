@@ -1,0 +1,6 @@
+PROJECT REPORT Task 2: Professional Portfolio Report
+For my professional digital portfolio, I have chosen to establish and curate my presence on GitHub, LinkedIn, and Kaggle.
+
+GitHub serves as my primary technical repository where I host open-source projects, made by me." Over the next four years, I plan to use it to document my coding journey, maintain a consistent contribution streak, and showcase my development skills to potential recruiters. LinkedIn acts as my professional networking hub; I have updated my education section to reflect my CSE (AI & ML) degree at VIT . My goal is to connect with college alumni and industry experts to stay informed about internship opportunities and market trends. Lastly, I chose Kaggle because of its specialized focus on AI and Machine Learning. Since I am specializing in AIML, I will use this platform to participate in data science competitions and learn from real-world datasets.
+
+By integrating these three platforms, I aim to build a comprehensive digital footprint that demonstrates both my technical competence in AI and my professional engagement with the global tech community throughout my four-year engineering degree.

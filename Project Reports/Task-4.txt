@@ -1,0 +1,6 @@
+PROJECT REPORT Task 4: Email Etiquette and Social Media Responsibility Report
+A significant real-world problem caused by poor digital communication often occurs during internship recruitment. In a common hypothetical scenario, a student might send a mass email to multiple HR coordinators without using BCC, exposing every recipient's email address to one another. Furthermore, using an unprofessional subject line like "Need Job" or failing to include a formal greeting often leads to the application being flagged as spam or ignored entirely.
+
+This situation could have been handled differently by utilizing basic email etiquette: using personalized salutations, a clear and descriptive subject line, and ensuring that each application is sent individually to maintain privacy and professionalism. In the professional world, your digital communication is your first impression; mastering these "soft" technical skills is just as critical as your coding ability for long-term career success.
+
+I have also created A DO's and Dont's List as  specified for the TASK-4
