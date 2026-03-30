@@ -1,0 +1,28 @@
+# 🛡️ 'Stay Safe Online' Prevention Checklist
+**A Digital Ambassador's Guide for College Students in India**
+
+Following these eight actionable steps will significantly reduce your vulnerability to common cyber threats in a campus environment.
+
+---
+
+### 💳 Financial & UPI Safety (Critical)
+1. **The "PIN for Payments Only" Rule:** Never enter your UPI PIN to *receive* money or a refund. A PIN is strictly required only for sending/debiting money from your account.
+2. **Verify Before You Pay:** Always double-check the recipient's name on the confirmation screen before hitting 'Pay' on apps like GPay, PhonePe, or Paytm. Scammers often use names similar to official brands.
+
+### 🔐 Account & Network Security
+3. **MFA is Mandatory:** Enable Multi-Factor Authentication (MFA) on your college email, LinkedIn, and social media accounts. Even if a hacker gets your password, they cannot gain access without your phone's physical token.
+4. **Hostel Wi-Fi Hygiene:** Avoid accessing banking apps or sensitive academic portals on shared/public Wi-Fi without a trusted VPN. Use your mobile data for financial transactions whenever possible.
+5. **Secure Your "Digital Key":** Never share your Aadhaar number, PAN, or OTP with anyone over the phone, even if they claim to be calling from the university administration or bank.
+
+### 📂 Software & Social Safety
+6. **Think Before You Click:** Avoid clicking on "shortened links" (bit.ly/tinyurl) sent via SMS or WhatsApp promising free internships, rewards, or exam leaks. These are often entry points for ransomware.
+7. **App Permissions Audit:** Regularly check the permissions of apps installed on your Samsung tab or phone. Revoke access to 'Contacts' or 'Gallery' for apps that don't logically require them.
+8. **Verify AI Hallucinations:** When using AI tools for code or research, always cross-verify the output. Using unverified AI data can lead to academic integrity issues or misinformation.
+
+
+***National Toll-Free Helpline:** **1930** (Available 24/7)
+***National Cyber Portal:** (cybercrime.gov.in) 
+
+
+
+*Prepared by: Abhinav Patil*

@@ -1,0 +1,24 @@
+# 🛡️ Case Study: The "Refund Desk" UPI Scam
+**Topic:** UPI / Online Payment Fraud  
+**Author:** Abhinav Patil (Digital Ambassador)
+
+---
+
+### 1. Definition of the Crime
+**UPI/Online Payment Fraud** is a sophisticated financial cybercrime that leverages social engineering to deceive victims into authorizing unauthorized money transfers. Unlike technical hacking that exploits software vulnerabilities, this crime "hacks the human" by exploiting a lack of technical awareness regarding how Unified Payments Interface (UPI) protocols function. Attackers manipulate the psychological trust users place in digital ecosystems to bypass multi-factor authentication.
+
+### 2. Step-by-Step Execution
+The scam typically unfolds in four distinct, calculated stages:
+1.  **The Bait:** The victim receives a call from a fraudster posing as a senior customer support executive from a reputable service (e.g., Zomato, Amazon, or a major bank). They claim a previous failed transaction or a "cashback" reward is pending and must be "refunded" immediately.
+2.  **The Pressure:** To prevent the victim from thinking critically or verifying the claim, the scammer creates artificial urgency. They use professional scripts, stating the refund link will expire in minutes or that the account will be "frozen" if not processed.
+3.  **The Request:** The attacker sends a **"Request Money"** notification via the victim's UPI app (GPay, PhonePe, etc.). They instruct the victim: *"Click 'Pay' and enter your UPI PIN to verify your identity and receive the funds into your bank account."*
+4.  **The Theft:** The moment the victim enters their UPI PIN, they are not "verifying" anything; they are authorizing a debit transaction. The money is instantly transferred to the attacker's account and then dispersed through a network of "mule" accounts to make tracking and recovery nearly impossible.
+
+### 3. Typical Targets
+College students and young professionals are the primary targets. As high-frequency users of e-commerce and food delivery apps, they are accustomed to digital refunds and "rewards," making them statistically more likely to believe the scammer's narrative and act quickly without double-checking the notification type.
+
+### 4. Consequences
+The immediate consequence is the **irreversible loss of funds**, as UPI transactions are instantaneous and final. Beyond the financial damage, victims often face compromised digital trust, potential identity exposure if they shared other sensitive details during the call, and the significant administrative burden of reporting the fraud to the National Cyber Crime Reporting Portal.
+
+---
+> **💡 Ambassador's Rule:** You **NEVER** need to enter your UPI PIN to *receive* money. If any process asks for a PIN during a "refund" or "receive" step, it is 100% a scam.
